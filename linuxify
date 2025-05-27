@@ -73,8 +73,8 @@ linuxify_formulas=(
     # Other common/preferred programs in GNU/Linux distributions
     "libressl"
     "file-formula"
-    #"git"
-    "openssh"
+    "git"
+    # "openssh"
     #"perl"
     #"python"
     "rsync"
